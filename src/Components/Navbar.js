@@ -7,7 +7,7 @@ const Navbar = () => {
       Level-2 : Job Application Form
     </div>
     <div className='basis-1/2 text-blue-200'>
-      <a href="https://github.com/mayank160903/job-applic-form">
+      <a href="https://github.com/mayank160903/job-applic">
         View Source Code
       </a>
     </div>
